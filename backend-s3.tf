@@ -3,5 +3,5 @@ terraform {
    bucket = "terraform-aws-vprofile"
    key = "terraform/backend"
    region = "us-east-2"
-}
+    }
 }
